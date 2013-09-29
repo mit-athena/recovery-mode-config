@@ -1,3 +1,10 @@
+debathena-recovery-mode-config (1.6) unstable; urgency=low
+
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (native)
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 05:55:32 -0400
+
 debathena-recovery-mode-config (1.5) unstable; urgency=low
 
   * Don't set variable that don't exist; don't write out 127.0.1.1 line
